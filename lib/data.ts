@@ -136,8 +136,8 @@ export const skills: Skill[] = [
   },
   {
     id: 7,
-    name: 'Tailwind CSS',
-    logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg',
+    name: 'MySQL',
+    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
     category: 'frontend'
   },
   {
@@ -190,8 +190,8 @@ export const skills: Skill[] = [
   },
   {
     id: 16,
-    name: 'Redux',
-    logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg',
+    name: 'Python',
+    logo: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
     category: 'frontend'
   }
 ];

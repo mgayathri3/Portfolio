@@ -133,6 +133,44 @@ export function Portfolio() {
       date: "October 2024"
     }
   ];
+  const projects = [
+  {
+    id: 1,
+    image: "/projects/civicpulse.png", // Add this image to your public/projects folder
+    title: "Civic Pulse",
+    description: "A community feedback portal with sentiment analysis and location-based insights. Built using MERN stack and deployed on Render.",
+    link: "https://github.com/mgayathri3/civic_pulse"
+  },
+  {
+    id: 2,
+    image: "/projects/hrdashboard.png", // Add to public folder
+    title: "HR Management Dashboard",
+    description: "An interactive HR analytics dashboard built using Python. Offers insights on employee attrition, satisfaction, and workforce distribution.",
+    link: "https://github.com/mgayathri3/HR_management-Dashboard"
+  },
+  {
+    id: 3,
+    image: "/projects/bot.png", // Add image
+    title: "WhatsApp News Bot",
+    description: "A Python-based news bot that scrapes top headlines, summarizes them with OpenAI API, and delivers updates directly to WhatsApp.",
+    link: "https://github.com/mgayathri3/Automated-WhatsApp-News-Delivery-Bot-"
+  },
+  {
+    id: 4,
+    image: "/projects/securesign.png", // Add image
+    title: "SecureSignIn",
+    description: "A full-stack authentication system with dual database architecture (MySQL & MongoDB), role-based access, and a modern React UI.",
+    link: "https://securesignin-sn2o.onrender.com/"
+  },
+  {
+    id: 5,
+    image: "/projects/portfolio.png", // Add this image to your public/projects folder
+    title: "Portfolio Website",
+    description: "A modern portfolio website showcasing my projects, certificates, and tech stack using Next.js, Tailwind CSS, and Framer Motion.",
+    link: "https://github.com/mgayathri3/Portfolio" // Or your actual repo link
+  }
+];
+
 
   return (
     <div className="w-full">
