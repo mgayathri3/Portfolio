@@ -167,7 +167,7 @@ export function Portfolio() {
     image: "/projects/portfolio.png", // Add this image to your public/projects folder
     title: "Portfolio Website",
     description: "A modern portfolio website showcasing my projects, certificates, and tech stack using Next.js, Tailwind CSS, and Framer Motion.",
-    link: "https://github.com/mgayathri3/Portfolio" // Or your actual repo link
+    link: "https://portfolio-238m.onrender.com/" // Or your actual repo link
   }
 ];
 
